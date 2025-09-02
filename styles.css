@@ -1,0 +1,42 @@
+.first-article{
+    border: 5px solid greenyellow;
+    border-radius: 20px;
+    background-color: rgb(188, 113, 0);
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;;
+}
+.first-h2{
+    font-style: italic;
+    color:yellow
+    
+}
+.second-h2{
+    text-transform: uppercase;
+}
+.third-article{
+    background-color: lightblue;
+    border: 5px dashed;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.fancy-button{
+    border: 3px solid black;
+    font-size: 20px;
+    background-color: orange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 20px;
+}
+.fancy-button:hover{
+    background-color: green;
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+.story-script-regular {
+  font-family: "Story Script", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.first-article{
+    font-family: storyscript-regular;
+}
